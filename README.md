@@ -1,4 +1,4 @@
 differential_equations
 ======================
 
-ODE and PDE samples.
+ODE, PDE, bifurcation samples.
